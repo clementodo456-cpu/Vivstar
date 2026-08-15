@@ -1,3 +1,4 @@
+import asyncio
 import os
 import json
 import random
@@ -353,6 +354,10 @@ async def global_error_handler(update: object, context: ContextTypes.DEFAULT_TYP
 
 def main():
     load_questions()
+
+    # Explicitly instantiate and set the asyncio event loop for Python 3.14+
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
 
     ptb_app = (
         Application.builder()
