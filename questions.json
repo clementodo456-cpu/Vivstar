@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "category": "General Knowledge",
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Gold", "Oxygen", "Osmium", "Olive"],
+    "correct_option": 1,
+    "explanation": "Oxygen is represented by the symbol 'O' in the periodic table."
+  },
+  {
+    "id": 2,
+    "category": "General Knowledge",
+    "question": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "correct_option": 2,
+    "explanation": "There are 7 recognized continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+  },
+  {
+    "id": 3,
+    "category": "Science",
+    "question": "What is the speed of light in a vacuum approximately?",
+    "options": ["300,000 km/s", "150,000 km/s", "1,000,000 km/s", "30,000 km/s"],
+    "correct_option": 0,
+    "explanation": "Light travels at approximately 299,792 kilometers per second (about 300,000 km/s) in a vacuum."
+  },
+  {
+    "id": 4,
+    "category": "Science",
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Liver", "Kidney", "Pancreas", "Heart"],
+    "correct_option": 2,
+    "explanation": "The pancreas produces insulin, a hormone that regulates blood sugar levels."
+  },
+  {
+    "id": 5,
+    "category": "Technology",
+    "question": "What does CPU stand for in computer systems?",
+    "options": ["Central Performance Unit", "Central Processing Unit", "Computer Processing Utility", "Control Program Unit"],
+    "correct_option": 1,
+    "explanation": "CPU stands for Central Processing Unit, often referred to as the brain of the computer."
+  },
+  {
+    "id": 6,
+    "category": "Technology",
+    "question": "Which programming language is known as the backbone of web client-side development?",
+    "options": ["Python", "JavaScript", "C++", "SQL"],
+    "correct_option": 1,
+    "explanation": "JavaScript runs natively in web browsers and powers interactive web client logic."
+  },
+  {
+    "id": 7,
+    "category": "History",
+    "question": "In which year did World War II end?",
+    "options": ["1918", "1939", "1945", "1950"],
+    "correct_option": 2,
+    "explanation": "World War II officially ended in 1945 following the surrender of Axis powers."
+  },
+  {
+    "id": 8,
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+    "correct_option": 2,
+    "explanation": "George Washington served as the first U.S. President from 1789 to 1797."
+  },
+  {
+    "id": 9,
+    "category": "Geography",
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correct_option": 3,
+    "explanation": "The Pacific Ocean covers more than 30% of the Earth's surface, making it the largest."
+  },
+  {
+    "id": 10,
+    "category": "Geography",
+    "question": "Which country has the largest land mass in the world?",
+    "options": ["China", "United States", "Canada", "Russia"],
+    "correct_option": 3,
+    "explanation": "Russia is the largest country in the world by total land area."
+  },
+  {
+    "id": 11,
+    "category": "Sports",
+    "question": "How long is a standard soccer match (excluding extra time)?",
+    "options": ["80 minutes", "90 minutes", "100 minutes", "60 minutes"],
+    "correct_option": 1,
+    "explanation": "A standard professional soccer game consists of two 45-minute halves totaling 90 minutes."
+  },
+  {
+    "id": 12,
+    "category": "Sports",
+    "question": "In bowling, what is the term for scoring three consecutive strikes?",
+    "options": ["Spare", "Turkey", "Hat-trick", "Eagle"],
+    "correct_option": 1,
+    "explanation": "Three strikes in a row in bowling is called a 'Turkey'."
+  },
+  {
+    "id": 13,
+    "category": "Entertainment",
+    "question": "Who directed the 1994 movie 'Pulp Fiction'?",
+    "options": ["Steven Spielberg", "Quentin Tarantino", "Christopher Nolan", "Martin Scorsese"],
+    "correct_option": 1,
+    "explanation": "Quentin Tarantino wrote and directed the iconic film Pulp Fiction."
+  },
+  {
+    "id": 14,
+    "category": "Entertainment",
+    "question": "Which fictional wizard attends Hogwarts School of Witchcraft and Wizardry?",
+    "options": ["Gandalf", "Harry Potter", "Merlin", "Dr. Strange"],
+    "correct_option": 1,
+    "explanation": "Harry Potter is the protagonist of J.K. Rowling's series set at Hogwarts."
+  },
+  {
+    "id": 15,
+    "category": "Mathematics",
+    "question": "What is the square root of 144?",
+    "options": ["10", "11", "12", "14"],
+    "correct_option": 2,
+    "explanation": "12 multiplied by 12 equals 144."
+  },
+  {
+    "id": 16,
+    "category": "Mathematics",
+    "question": "What is the value of Pi rounded to two decimal places?",
+    "options": ["3.14", "3.16", "3.12", "3.18"],
+    "correct_option": 0,
+    "explanation": "Pi (π) is approximately equal to 3.14159, which rounds to 3.14."
+  }
+]
