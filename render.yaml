@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: vivstartbot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    healthCheckPath: /health
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: ADMIN_ID
+        sync: false
+      - key: WEBHOOK_URL
+        sync: false
+      - key: DB_PATH
+        value: /var/data/quiz_bot.db
+    disk:
+      name: sqlite-data
+      mountPath: /var/data
+      sizeGB: 1
